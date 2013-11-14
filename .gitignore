@@ -1,6 +1,7 @@
 #Android generated
 bin
 gen
+out
 
 #Eclipse
 .project
@@ -9,7 +10,7 @@ gen
 
 #IntelliJ IDEA
 .idea
-*.iml
+#*.iml
 classes
 
 #Maven
